@@ -57,20 +57,6 @@ Users can:
 - **Hugging Face API** – Sentiment classification (positive, neutral, negative)
 ---
 
-## 🛠️ Setup Instructions
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/market-sentiment-analyzer.git
-
-2. Install dependencies:
-  ```bash
-  cd market-sentiment-analyzer
-  npm instal
-
-3.start the app:
- ```bash
- npm run dev
 
 ---
 ## 📦 Deployment
@@ -85,7 +71,23 @@ Hosted on **Vercel**
 - [@sanketdattatraymane](https://github.com/sanketdattatraymane) 
 - [@SiddhantMishra](https://github.com/silicon005) 
 - [@Bhavin](https://github.com/Bhavin-0) 
-
+---
 ## 📄 License
 
 MIT License
+---
+
+## 🛠️ Setup Instructions
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/market-sentiment-analyzer.git
+
+2. Install dependencies:
+  ```bash
+  cd market-sentiment-analyzer
+  npm install
+
+3.start the app:
+ ```bash
+ npm run dev
